@@ -1,0 +1,16 @@
+Enter the number of process max 10 : 
+Enter the burst time of the process
+P0 : P1 : P2 : Enter the quantum time : ----------------------------------------------
+
+Process	      Burst Time	       Turnaround Time	          Waiting Time
+----------------------------------------------
+
+1 	5 	 	13 		 8
+
+2 	6 	 	15 		 9
+
+3 	7 	 	18 		 11
+
+Average wait time : 9.33333
+
+Average turnaround time : 15.3333
