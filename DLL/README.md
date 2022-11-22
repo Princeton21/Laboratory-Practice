@@ -1,4 +1,6 @@
-# STEPS TO FOLLOW
+# DYNAMIC LINK LIBRARY
+
+### STEPS TO FOLLOW
 
 After step 3, there may be errors encounterd in Windows OS but works fine will the Ubuntu System perfectly.
 
